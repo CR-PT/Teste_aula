@@ -4,7 +4,7 @@ idade = 25
 
 print("Olá turma maravilhosa de Python!")  # Mensagem inicial
 print("Seja bem-vindo à aula!")
-print("Como estás?")  # Pergunta informal
+print('Como estás?')  # Pergunta informal
 
 # Solicita o nome do usuário
 nome: str = input("Qual é o seu nome? ")
